@@ -17,7 +17,7 @@ To investigate and visualize trends in gender-based payment disparities across s
 * **Languages:** Python (3.10), SQL
 * **Libraries:** Pandas, NumPy, Seaborn, Matplotlib, Scikit-learn, Plotly
 * **ML Models:** KMeans Clustering, DBSCAN, Isolation Forest
-* **Pipeline Tools:** Jupyter, PySpark (optional), Airflow (optional)
+* **Pipeline Tools:** Jupyter, PySpark, Airflow
 * **Storage & Processing:** CSV, Parquet
 * **Version Control:** Git + GitHub
 
