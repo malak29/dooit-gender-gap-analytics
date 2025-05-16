@@ -1,5 +1,3 @@
-Here is a polished and professional `README.md` for your GitHub repository on the **Dooit Project** — which focuses on uncovering gender disparity in medical payments using Open Payments data, clustering, ML, and a clean data pipeline:
-
 ---
 
 # 📊 Gender Disparity in Medical Payments – Dooit Project
